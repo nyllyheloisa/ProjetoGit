@@ -1,3 +1,1 @@
-Aprendendo a utilizar o git e github
-Passo 1 completo
-passo 2 completo
+Aprendendo a utilizar o git, github e a utilizar o VS code.
